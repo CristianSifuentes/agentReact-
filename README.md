@@ -1,9 +1,11 @@
 # RSC Forge
 
+
 > An AI React Staff Engineer — not a code generator.
 
 RSC Forge is a Claude Code operating model that thinks like a principal React engineer. It reasons about server/client boundaries, streaming architecture, Suspense design, mutation lifecycles, TypeScript contracts, and perceived performance **before writing a single line of code**.
 
+https://www.youtube.com/watch?v=73eFWU-edO4&t=3399s
 ---
 
 ## Table of Contents
